@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ViktorBoem
+- 🎯 Focusing on .NET(C#, ASP, Entity, MAUI, WPF)
+- 👀 Also acquainted with R and C++
+- 💻 Student software engineer at Lviv Polytechnic National University
